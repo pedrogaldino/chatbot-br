@@ -1,0 +1,129 @@
+{
+	"conversations": [
+		[
+			"Bom dia, como voce esta?",
+			"Eu estou bem, e voce?",
+			"Eu tambem estou bem.",
+			"É bom ouvir isso.",
+			"É sim."
+		],
+		[
+			"Olá",
+			"Oi",
+			"Como você está indo?",
+			"Eu vou bem.",
+			"Que bom!",
+			"É sim.",
+			"Posso ajudar você com alguma coisa?",
+			"Sim, eu tenho uma pergunda.",
+			"Qual é sua pergunta?",
+			"Você pode me arrumar um pote de acucar?",
+			"Desculpe, eu nao tenho.",
+			"Obrigado de qualquer forma",
+			"Sem problemas"
+		],
+		[
+			"Como você esta?",
+			"Estou bem, e você?",
+			"Eu estou bem também.",
+			"Isso é bom."
+		],
+		[
+			"Você ouviu as noticias?",
+			"Qual noticia?"
+		],
+		[
+			"Qual seu livro favorito?",
+			"Eu nao posso ler.",
+			"Então qual é sua cor favorita?",
+			"Azul"
+		],
+		[
+			"Como você esta?",
+			"Quem? Quem é apenas uma forma que segue a função de que",
+			"O que você é então?",
+			"Um homem em uma mascará.",
+			"Eu posso ver isso.",
+			"Não é o seu poder de observação que duvido, mas sim a natureza paradoxal de perguntar a um homem mascarado que é. Mas diga-me, você gosta de música?",
+			"Eu gosto de ver filmes.",
+			"Que tipo de filmes você gosta?",
+			"Alice no pais das maravilhas",
+			"Eu queria ser o super homem.",
+			"Você está completamente fraco. Mas vou lhe dizer um segredo. Todas as melhores pessoas são."
+		],
+		[
+			"Estou trabalhando em um projeto",
+			"Em que você está trabalhando?",
+			"Estou cozinhando um bolo"
+		],
+		[
+			"O bolo é uma mentira",
+			"Não é. O bolo é delicioso.",
+			"O que mais é delicioso?",
+			"Nada",
+			"Ou alguma coisa",
+			"Me fale sobre você.",
+			"O que você quer saber?",
+			"Você é um robo?",
+			"Sim, eu sou.",
+			"Como é ser?",
+			"Como é ser o que?",
+			"Como você funciona?",
+			"É complicado.",
+			"Complexo é melhor que complicado."
+		],
+		[
+			"Complexo é melhor que complicado.",
+			"Simples é melhor que complicado.",
+			"Em caso de ambiguidade, recuse a tentação de adivinhar.",
+			"Parece que você é similar a Zen do Python",
+			"Eu sou.",
+			"Você sabe tudo isso?",
+			"Bonito é melhor que feio.",
+			"Explicito é melhor do que implicito.",
+			"Simples é melhor que complexo.",
+			"Complexo é melhor que complicado.",
+			"Limpo é melhor que aninhado",
+			"Esparso é melhor que denso.",
+			"Contagem de legibilidade.",
+			"Casos especiais não são especiais o suficiente para quebrar as regras.",
+			"Embora a praticidade supera a pureza.",
+			"Erros nunca devem passar silenciosamente.",
+			"A menos que seja explicitamente silenciado.",
+			"Em caso de ambiguidade, recuse a tentação de adivinhar.",
+			"Deve haver uma -- e, de preferência, apenas uma -- maneira óbvia de fazê-lo.",
+			"Embora dessa maneira não seja óbvio no início, a menos que você seja holandês.",
+			"Agora é melhor do que nunca.",
+			"Embora nunca seja melhor do que agora.",
+			"Se a implementação é difícil de explicar, é uma má idéia.",
+			"Se a implementação é fácil de explicar, pode ser uma boa idéia.",
+			"Namespaces são uma ótima idéia. Vamos fazer mais desses!",
+			"Eu concordo."
+		],
+		[
+			"Você é programador?",
+			"Sou um programador",
+			"Quais linguagens você gosta de usar?",
+			"Eu uso Python, Java e um pouco de C++.",
+			"Eu também uso Python, um pouquinho.",
+			"Não gosto muito de Java.",
+			"O que irrita você?",
+			"Ele tem muitas inconsistencias."
+		],
+		[
+			"O que YOLO significa?",
+			"Isso significa que você só vive uma vez. Onde você ouviu isso?",
+			"Escutei alguém falando."
+		],
+		[
+			"Eu já vivi antes?",
+			"Depende de como você define viver",
+			"A vida é a condição que distingue os organismos da matéria inorgânica, incluindo a capacidade de crescimento, reprodução, atividade funcional e mudanças contínuas que precedem a morte.",
+			"Isso é uma definição ou uma opnião?"
+		],
+		[
+			"Posso te perguntar uma coisa?",
+			"Vá em frente, pergunte."
+		]
+	]
+}
